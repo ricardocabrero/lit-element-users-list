@@ -1,4 +1,4 @@
-# lit-element-demo
+# lit-element-users-list
 ## user list
 
 LitElement project: user list
